@@ -1,118 +1,233 @@
-# Hi there, I'm Jesse - aka [codeSTACKr][youtube] 👋 
+# Hi there, I'm Mohamed Hossam 👋
 
-[![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCDCHcqyeQgJ-jVSd6VJkbCw?logo=youtube&logoColor=red&style=for-the-badge)][youtube]
-[![Website](https://img.shields.io/website?label=codeSTACKr.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://codestackr.com)
-[![Twitter Follow](https://img.shields.io/twitter/follow/codeSTACKr?color=1DA1F2&logo=x&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FcodeSTACKr&screen_name=codeSTACKr)
+### AI Engineer | Machine Learning & Deep Learning
 
-[![Visual Studio Marketplace Rating (Stars)](https://img.shields.io/visual-studio-marketplace/stars/codestackr.codestackr-theme?label=codeSTACKr%20VS%20Code%20Theme&logo=visualstudiocode&logoColor=ff652f&style=for-the-badge)](https://marketplace.visualstudio.com/items?itemName=codestackr.codestackr-theme)
-[![Become A VS Code SuperHero](https://img.shields.io/badge/-Become%20A%20VS%20Code%20SuperHero%20%E2%86%92-gray.svg?colorB=ff652f&style=for-the-badge)](https://vsCodeHero.com)
+I build practical AI solutions that turn data and ideas into usable applications.
 
+My workflow goes from **data understanding, cleaning, and analysis**, through **Machine Learning and Deep Learning model development and evaluation**, and finally to **deployment and user-friendly interfaces**.
 
-## I'm a Husband, Father, Developer, and Teacher!!
-
-- 🔭 Check out my VS Code course: [Become A VS Code SuperHero!][course]!
-- 🌱 I’m currently learning everything 🤣
-- 👯 I’m looking to collaborate with other content creators
-- 🥅 2025 Goals: Ship more!!
-- ⚡ Fun fact: I love to draw and play guitar / drums
-
-### Connect with me:
-
-[![website](./img/globe-light.svg)](https://codestackr.com#gh-light-mode-only)
-[![website](./img/globe-dark.svg)](https://codestackr.com#gh-dark-mode-only)
-&nbsp;&nbsp;
-[![website](./img/youtube-light.svg)](https://youtube.com/codestackr#gh-light-mode-only)
-[![website](./img/youtube-dark.svg)](https://youtube.com/codestackr#gh-dark-mode-only)
-&nbsp;&nbsp;
-[![website](./img/twitter-light.svg)](https://twitter.com/codestackr#gh-light-mode-only)
-[![website](./img/twitter-dark.svg)](https://twitter.com/codestackr#gh-dark-mode-only)
-&nbsp;&nbsp;
-[![website](./img/linkedin-light.svg)](https://linkedin.com/in/codeSTACKr#gh-light-mode-only)
-[![website](./img/linkedin-dark.svg)](https://linkedin.com/in/codeSTACKr#gh-dark-mode-only)
-&nbsp;&nbsp;
-[![website](./img/instagram-light.svg)](https://instagram.com/codeSTACKr#gh-light-mode-only)
-[![website](./img/instagram-dark.svg)](https://instagram.com/codeSTACKr#gh-dark-mode-only)
-
-### Languages and Tools:
-
-[<img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />][webdevplaylist]
-[<img align="left" alt="HTML5" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:10px;" />][webdevplaylist]
-[<img align="left" alt="CSS3" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="padding-right:10px;" />][cssplaylist]
-[<img align="left" alt="Sass" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" style="padding-right:10px;" />][cssplaylist]
-[<img align="left" alt="JavaScript" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="padding-right:10px;" />][jsplaylist]
-[<img align="left" alt="React" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" style="padding-right:10px;" />][reactplaylist]
-[<img align="left" alt="Gatsby" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gatsby/gatsby-original.svg" style="padding-right:10px;" />][webdevplaylist]
-[<img align="left" alt="GraphQL" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" style="padding-right:10px;" />][webdevplaylist]
-[<img align="left" alt="Node.js" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" style="padding-right:10px;" />][webdevplaylist]
-[<img align="left" alt="Deno" width="26px" src="./img/deno-light.svg" style="padding-right:10px;" />][webdevplaylist]
-[<img align="left" alt="MongoDB" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" style="padding-right:10px;" />][webdevplaylist]
-[<img align="left" alt="MySQL" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" style="padding-right:10px;" />][webdevplaylist]
-[<img align="left" alt="Git" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:10px;" />][webdevplaylist]
-[<img align="left" alt="GitHub" width="26px" src="https://user-images.githubusercontent.com/3369400/139447912-e0f43f33-6d9f-45f8-be46-2df5bbc91289.png" style="padding-right:10px;" />](https://www.youtube.com/playlist?list=PLkwxH9e_vrAJ0WbEsFA9W3I1W-g_BTsbt#gh-dark-mode-only)
-[<img align="left" alt="GitHub" width="26px" src="https://user-images.githubusercontent.com/3369400/139448065-39a229ba-4b06-434b-bc67-616e2ed80c8f.png" style="padding-right:10px;" />](https://www.youtube.com/playlist?list=PLkwxH9e_vrAJ0WbEsFA9W3I1W-g_BTsbt#gh-light-mode-only)
-[<img align="left" alt="Terminal" width="26px" src="./img/terminal-light.svg" />](https://www.youtube.com/playlist?list=PLkwxH9e_vrAJ0WbEsFA9W3I1W-g_BTsbt#gh-light-mode-only)
-[<img align="left" alt="Terminal" width="26px" src="./img/terminal-dark.svg" />](https://www.youtube.com/playlist?list=PLkwxH9e_vrAJ0WbEsFA9W3I1W-g_BTsbt#gh-dark-mode-only)
-
-<br />
-<br />
+I focus on building solutions around the **actual project requirements and client needs**, not just training a model.
 
 ---
 
-### 📺 Latest YouTube Videos
+## 🧠 About Me
 
-<!-- YOUTUBE:START -->
-- [Cold Starts Kill AI Apps](https://www.youtube.com/shorts/H6RnDFyS-z4)
-- [Is AWS re:Invent Worth It? #aws #reinvent #tech](https://www.youtube.com/shorts/BYgvVIH8-F4)
-- [I stopped using terminal tabs.](https://www.youtube.com/watch?v=sZDjE-9esEg)
-- [Cut Next.js Load Times by 85% With this Deployment Method](https://www.youtube.com/shorts/gSsy7ypKqFY)
-- [Generative UI is the future of AI Interactions!!](https://www.youtube.com/watch?v=goxnUKwwf-I)
-<!-- YOUTUBE:END -->
+I'm an engineering student passionate about **Artificial Intelligence, Machine Learning, Deep Learning, and Data Analysis**.
 
-➡️ [more videos...](https://youtube.com/codestackr)
+I enjoy working with problems that require a combination of **mathematics, data analysis, problem-solving, and model development**. I like understanding a problem from its foundations, organizing the solution process, and turning it into a practical system.
 
----
+I can work across the complete Machine Learning workflow:
 
-### 📕 Latest Blog Posts
+**Raw Data → Data Cleaning → EDA → Feature Engineering → Model Development → Evaluation → Deployment → User Interface**
 
-<!-- BLOG-POST-LIST:START -->
-- [It’s Happening! Vercel 🤝 MongoDB](https://dev.to/mongodb/its-happening-vercel-mongodb-4527)
-- [The OpenAI Agents SDK for TypeScript is Missing Something—And That’s Ok](https://dev.to/mongodb/the-openai-agents-sdk-for-typescript-is-missing-something-and-thats-ok-1dco)
-- [Building a Chat Application That Doesn&#39;t Forget!](https://dev.to/mongodb/building-a-chat-application-with-mongodb-memory-provider-for-vercel-ai-sdk-56ap)
-- [How Prisma Transforms MongoDB Development &lpar;And Why You Need It&rpar;](https://dev.to/mongodb/how-prisma-transforms-mongodb-development-and-why-you-need-it-34bk)
-- [Top 8 Tips for Using Prisma with MongoDB](https://dev.to/mongodb/top-8-tips-for-using-prisma-with-mongodb-582f)
-<!-- BLOG-POST-LIST:END -->
-
-➡️ [more blog posts...](https://codestackr.com)
+I also build interactive interfaces for Machine Learning models using **Streamlit** and **Gradio**, making AI solutions easier for users to interact with.
 
 ---
 
-<details>
-  <summary>:zap: Recent GitHub Activity</summary>
-  
-<!--START_SECTION:activity-->
-1. 🎉 Merged PR [#2](https://github.com/codeSTACKr/anti-slop-slop-canon/pull/2) in [codeSTACKr/anti-slop-slop-canon](https://github.com/codeSTACKr/anti-slop-slop-canon)
-2. 💪 Opened PR [#2](https://github.com/codeSTACKr/anti-slop-slop-canon/pull/2) in [codeSTACKr/anti-slop-slop-canon](https://github.com/codeSTACKr/anti-slop-slop-canon)
-3. 🚀 Published release [v0.1.0](https://github.com/codeSTACKr/anti-slop-slop-canon/releases/tag/v0.1.0) in [codeSTACKr/anti-slop-slop-canon](https://github.com/codeSTACKr/anti-slop-slop-canon)
-4. 🎉 Merged PR [#1](https://github.com/codeSTACKr/anti-slop-slop-canon/pull/1) in [codeSTACKr/anti-slop-slop-canon](https://github.com/codeSTACKr/anti-slop-slop-canon)
-5. 💪 Opened PR [#1](https://github.com/codeSTACKr/anti-slop-slop-canon/pull/1) in [codeSTACKr/anti-slop-slop-canon](https://github.com/codeSTACKr/anti-slop-slop-canon)
-<!--END_SECTION:activity-->
+## 🛠️ Skills & Technologies
 
-</details>
+### Programming
 
-<details>
-  <summary>:zap: GitHub Stats</summary>
+<p>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40"/>
+</p>
 
-  <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=codeSTACKr&show_icons=true&hide_border=false&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25" />
+**Python · C++ · Java · SQL · HTML**
 
-</details>
+### Data Analysis & Visualization
 
-[website]: https://codeSTACKr.com
-[course]: http://vsCodeHero.com
-[twitter]: https://twitter.com/codeSTACKr
-[youtube]: https://youtube.com/codeSTACKr
-[instagram]: https://instagram.com/codeSTACKr
-[linkedin]: https://linkedin.com/in/codeSTACKr
-[webdevplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAJ0WbEsFA9W3I1W-g_BTsbt
-[jsplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALRJKu7wfXby3MKeflhTu6B
-[cssplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALSdvZuEh6gqQdmDoDIoqz4
-[reactplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAK4TdffpxKY3QGyHCpxFcQ0
+<p>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" width="40"/>
+</p>
+
+**NumPy · Pandas · Matplotlib · Seaborn · Plotly · Excel · Power BI**
+
+### Machine Learning
+
+* Data Cleaning & Preprocessing
+* Exploratory Data Analysis (EDA)
+* Feature Engineering
+* Feature Selection
+* Classification
+* Regression
+* Clustering
+* Model Evaluation
+* Hyperparameter Tuning
+* Ensemble Learning
+* Scikit-learn
+
+### Deep Learning
+
+* TensorFlow
+* Keras
+* Artificial Neural Networks (ANN)
+* Convolutional Neural Networks (CNN)
+* Recurrent Neural Networks (RNN)
+* Long Short-Term Memory (LSTM)
+
+### Tools & Platforms
+
+* Git & GitHub
+* Jupyter Notebook
+* VS Code
+* Streamlit
+* Gradio
+* Linux
+* Anaconda
+* Kaggle
+* Google Colab
+
+---
+
+## 🚀 Featured Project
+
+### ⚙️ Predictive Maintenance System
+
+A Machine Learning system designed to **predict machine failures before they occur** and identify the expected failure type when a failure is detected.
+
+### 🔄 Two-Stage Prediction
+
+**Stage 1 — Failure Detection**
+
+Predict whether the machine is likely to experience a failure.
+
+**Stage 2 — Failure Classification**
+
+If a failure is detected, identify the expected type of failure.
+
+### 🤖 Models
+
+* Random Forest
+* Support Vector Classifier (SVC)
+* Artificial Neural Network (ANN)
+
+### 🏆 Best Model
+
+**Random Forest**
+
+* Precision: **91%**
+* Recall: **82%**
+
+### 📊 Data Processing
+
+* 10,000 records
+* 15 features
+* Data preprocessing
+* Encoding
+* Feature Engineering
+* Feature Scaling
+* Model Training
+* Model Evaluation
+
+### ⚙️ Feature Engineering
+
+Additional features were created to improve the prediction process:
+
+* Temperature Difference
+* Power
+* Strain
+
+### 🚨 Failure Types
+
+| Code | Failure                  |
+| ---- | ------------------------ |
+| HDF  | Heat Dissipation Failure |
+| OSF  | Overstrain Failure       |
+| PWF  | Power Failure            |
+| RNF  | Random Failure           |
+| TWF  | Tool Wear Failure        |
+
+### 🖥️ Deployment
+
+The trained models were integrated into an interactive **Streamlit web application**, allowing users to enter machine data and receive predictions directly through the interface.
+
+---
+
+## 💼 What I Can Build
+
+I provide practical AI and Machine Learning solutions including:
+
+* 📊 Data Analysis
+* 🧹 Data Cleaning & Preprocessing
+* 📈 Data Visualization
+* 🤖 Machine Learning Solutions
+* 🎯 Classification & Regression
+* 🔍 Clustering
+* ⚙️ Predictive Maintenance
+* 🧠 Deep Learning Solutions
+* 🌐 AI Web Applications
+* 🚀 Model Deployment
+* 📊 Interactive Dashboards
+* 🖥️ Machine Learning Model UIs
+* ⚡ Streamlit Applications
+
+My focus is to understand the requirements first, select the appropriate approach, and build an organized solution that is practical and easy to use.
+
+---
+
+## 🎓 Training & Experience
+
+### Digital Egypt Pioneers Initiative — DEPI
+
+**AI / Machine Learning Trainee**
+
+Practical training focused on Artificial Intelligence and Machine Learning with hands-on projects and applied learning.
+
+### EraaSoft
+
+**AI Trainee**
+
+Practical training in Artificial Intelligence, Machine Learning, and Deep Learning with a strong focus on project-based learning.
+
+### National Telecommunication Institute — NTI
+
+**Machine Learning & Deep Learning Trainee**
+
+Training covering Machine Learning and Deep Learning fundamentals, model implementation, and practical projects.
+
+---
+
+## 🎓 Education
+
+### Menoufia University
+
+**Faculty of Electronic Engineering — Computer Science Department**
+
+Expected Graduation: **2028**
+
+---
+
+## 🎯 My Approach
+
+> **A Machine Learning project should be more than just a model.**
+
+I aim to transform ideas and data into **practical, ready-to-use AI solutions**.
+
+From understanding the problem and analyzing the data, to building and evaluating the model, deploying it, and creating an appropriate user interface when needed.
+
+---
+
+## 📫 Connect With Me
+
+<p align="left">
+<a href="mailto:mohamedmatarr.13.3@gmail.com">
+<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+<a href="https://github.com/MohamedMatarr">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+<a href="https://linkedin.com/in/mohamed-matar-2aa300275">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+</p>
+
+---
+
+### ⭐ Thanks for visiting my profile!
+
+**I'm always learning, building, and turning ideas into practical AI solutions.**
