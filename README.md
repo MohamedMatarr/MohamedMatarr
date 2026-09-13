@@ -23,7 +23,7 @@
 
 <p align="left">
 <a href="https://mohamedmatarr.github.io/My-Portfolio/">
-<img src="https://cdn-icons-png.flaticon.com/512/1006/1006771.png" width="30"/>
+<img src="https://cdn-icons-png.flaticon.com/512/3135/3135706.png" width="30"/>
 </a>
 &nbsp;&nbsp;
 <a href="https://linkedin.com/in/mohamed-matar-2aa300275">
@@ -35,6 +35,7 @@
 </a>
 </p>
 
+---
 ### Languages and Tools:
 
 <p align="left">
