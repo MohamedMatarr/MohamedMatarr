@@ -22,8 +22,8 @@
 ### Connect with me:
 
 <p align="left">
-<a href="https://github.com/MohamedMatarr">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="30"/>
+<a href="https://mohamedmatarr.github.io/My-Portfolio/">
+<img src="https://cdn-icons-png.flaticon.com/512/1006/1006771.png" width="30"/>
 </a>
 &nbsp;&nbsp;
 <a href="https://linkedin.com/in/mohamed-matar-2aa300275">
@@ -34,8 +34,6 @@
 <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" width="30"/>
 </a>
 </p>
-
----
 
 ### Languages and Tools:
 
