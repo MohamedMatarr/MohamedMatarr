@@ -73,14 +73,6 @@ Machine Learning classification project focused on identifying authentic and for
 
 ---
 
-### 📊 GitHub Stats
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=MohamedMatarr&show_icons=true&hide_border=true&theme=tokyonight" />
-</p>
-
----
-
 ### 🎯 Currently
 
 Learning → Building → Improving → Deploying
