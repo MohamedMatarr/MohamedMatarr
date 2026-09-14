@@ -2,9 +2,8 @@
 
 ### AI Engineer | Machine Learning & Deep Learning
 
-<p align="left">
 <a href="https://mohamedmatarr.github.io/My-Portfolio/">
-<img src="https://img.shields.io/badge/PORTFOLIO-Visit%20My%20Portfolio-6C63FF?style=for-the-badge&logo=googlechrome&logoColor=white"/>
+<img src="https://img.shields.io/badge/PORTFOLIO-6C63FF?style=for-the-badge&logo=googlechrome&logoColor=white"/>
 </a>
 <a href="https://linkedin.com/in/mohamed-matar-2aa300275">
 <img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
