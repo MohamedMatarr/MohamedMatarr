@@ -8,6 +8,9 @@
 <a href="https://linkedin.com/in/mohamed-matar-2aa300275">
 <img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
+<a href="https://www.kaggle.com/mohamedhossammatar">
+<img src="https://img.shields.io/badge/KAGGLE-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white"/>
+</a>
 <a href="mailto:mohamedmatarr.13.3@gmail.com">
 <img src="https://img.shields.io/badge/EMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
